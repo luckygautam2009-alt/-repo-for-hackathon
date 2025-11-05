@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9fafc;
+  color: #333;
+  text-align: center;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #0078d7;
+  color: white;
+  padding: 2rem;
+  border-radius: 0 0 1rem 1rem;  /*1 rem =16px*/
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 1rem;
+  border-radius: 1rem 1rem 0 0;
+}
